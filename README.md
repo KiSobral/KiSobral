@@ -7,10 +7,11 @@
         <p style="margin-left: 20px">Dogs and cats lover :dog2: :cat2:</p>
         <p style="margin-left: 20px">I'm currently studying machine learning with Python :snake:</p>
         <p style="margin-left: 20px">Looking forward to contribute to open source communities :penguin: :two_hearts:</p>
+        <br/>
     </div>
 </div>
 
-<h3 style="padding-top: 20px;"> Let me give you a brief intuition about me </h3>
+<h3 style="padding-top: 20px;"> Let me give you a brief intuition about me :smiley_cat:</h3>
 
 ```python
 hugo = {
@@ -21,7 +22,8 @@ hugo = {
         "favorite_color": "Dark green",
         "favorite_game": "Shadow of The Colossus",
         "favorite_movies": ["Howl's Moving Castle", "Interestellar"],
-        "favorite_sounds": ["Arctic Monkeys - 505", "The 1975 - Somebody Else", "The Neighbourhood - Daddy Issues", "Childish Gambino - Redbone"],
+        "favorite_sounds": ["Arctic Monkeys - 505", "The 1975 - Somebody Else",
+                            "The Neighbourhood - Daddy Issues", "Childish Gambino - Redbone"],
     },
     professional_info: {
         "code_languages": [Python, Javascript, C++],
