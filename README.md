@@ -18,14 +18,14 @@ hugo = {
     "name": "Hugo Sobral",
     "age": 20,
     "pronouns": ["he", "him"],
-    personal_info: {
+    "personal_info": {
         "favorite_color": "Dark green",
         "favorite_game": "Shadow of The Colossus",
         "favorite_movies": ["Howl's Moving Castle", "Interestellar"],
         "favorite_sounds": ["Arctic Monkeys - 505", "The 1975 - Somebody Else",
                             "The Neighbourhood - Daddy Issues", "Childish Gambino - Redbone"],
     },
-    professional_info: {
+    "professional_info": {
         "code_languages": [Python, Javascript, C++],
         "code_tools": [Tensorflow, Flask, ReactJS, React Native, NodeJS],
         "interests": ["Machine Learning", "Video Games", "Climate Change", "Environment"],
