@@ -5,7 +5,7 @@
     <div>
         <p style="margin-left: 20px">Software Enginnering student based in Brasília, Brazil ✨</p> 
         <p style="margin-left: 20px">Dogs and cats lover :dog2: :cat2:</p>
-        <p style="margin-left: 20px">I'm currently studying machine learning with Python :snake:</p>
+        <p style="margin-left: 20px">I'm currently working with Flutter</p>
         <p style="margin-left: 20px">Looking forward to contribute to open source communities :penguin: :two_hearts:</p>
         <br/>
     </div>
@@ -16,19 +16,18 @@
 ```python
 hugo = {
     "name": "Hugo Sobral",
-    "age": 20,
+    "age": 22,
     "pronouns": ["he", "him"],
     "personal_info": {
         "favorite_color": "Dark green",
-        "favorite_game": "Shadow of The Colossus",
-        "favorite_movies": ["Howl's Moving Castle", "Interestellar"],
-        "favorite_sounds": ["Arctic Monkeys - 505", "The 1975 - Somebody Else",
-                            "The Neighbourhood - Daddy Issues", "Childish Gambino - Redbone"],
+        "favorite_game": "Hollow Knight",
+        "favorite_movies": ["Howl's Moving Castle", "French Dispatch"],
+        "favorite_sounds": ["Arctic Monkeys - 505", "Childish Gambino - Redbone"],
     },
     "professional_info": {
-        "code_languages": [Python, Javascript, C++],
-        "code_tools": [Tensorflow, Flask, ReactJS, React Native, NodeJS],
-        "interests": ["Machine Learning", "Video Games", "Climate Change", "Environment"],
+        "code_languages": [Python, Javascript, Dart],
+        "code_tools": [Flutter, Django, ReactJS, React Native],
+        "interests": ["Agile Methodologies", "Mobile development", "Backend development"],
     },
 }
 ```
