@@ -5,8 +5,8 @@
     <div>
         <p style="margin-left: 20px">Software Enginnering student based in Brasília, Brazil ✨</p> 
         <p style="margin-left: 20px">Dogs and cats lover :dog2: :cat2:</p>
-        <p style="margin-left: 20px">I'm currently working with Flutter</p>
-        <p style="margin-left: 20px">Looking forward to contribute to open source communities :penguin: :two_hearts:</p>
+        <p style="margin-left: 20px">I'm currently working with Project Management</p>
+        <p style="margin-left: 20px">Looking forward to learn new skills and face challenges :penguin: :two_hearts:</p>
         <br/>
     </div>
 </div>
@@ -22,12 +22,12 @@ hugo = {
         "favorite_color": "Dark green",
         "favorite_game": "Hollow Knight",
         "favorite_movies": ["Howl's Moving Castle", "French Dispatch"],
-        "favorite_sounds": ["Arctic Monkeys - 505", "Childish Gambino - Redbone"],
+        "favorite_sounds": ["Gorillaz - Feel Good Inc.", "Palace - Bitter"],
     },
     "professional_info": {
-        "code_languages": [Python, Javascript, Dart],
-        "code_tools": [Flutter, Django, ReactJS, React Native],
-        "interests": ["Agile Methodologies", "Mobile development", "Backend development"],
+        "code_languages": [Python, Go, Typescript, Dart],
+        "code_tools": [Django, Node.JS, Flutter, React JS],
+        "interests": ["Agile Methodologies", "Backend development"],
     },
 }
 ```
