@@ -1,15 +1,5 @@
 <h2> Hey there, I'm Hugo 👋 </h2>
 
-<div style="display: flex; width: 60vw; align-items: center">
-    <img align="left" src="https://media.giphy.com/media/xUOxfpwk1Ghv7cEyvm/giphy.gif" width="240">
-    <div>
-        <p style="margin-left: 20px; padding-left: 20px;">Software Enginnering student based in Brasília, Brazil ✨</p> 
-        <p style="margin-left: 20px; padding-left: 20px;">I'm currently working with Python and Golang in cloud apps!</p>
-        <p style="margin-left: 20px; padding-left: 20px;">Looking forward to learn new skills and face challenges</p>
-        <br/>
-    </div>
-</div>
-
 <div>
 <h3 style="padding-top: 30px; margin-top: 30px;"> Let me give you a brief intuition about me</h3>
 <p style="padding-top: 10px;">I am a passionate enthusiast about technology and open-source software communities. Currently, I am in the final semester of my Bachelor's degree in Software Engineering at the University of Brasília. My dedication to challenges is reflected in the application of robust software development processes, aiming to enhance the quality and performance of applications. My goal is to tackle the ever-evolving challenges of computing in a globalized world.</p>
