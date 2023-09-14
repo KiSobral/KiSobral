@@ -10,7 +10,7 @@
     </div>
 </div>
 
-<h3 style="padding-top: 20px;"> Let me give you a brief intuition about me</h3>
+<h3 style="padding-top: 30px;"> Let me give you a brief intuition about me</h3>
 
 <p style="padding-top: 10px;">I am a passionate enthusiast about technology and open-source software communities. Currently, I am in the final semester of my Bachelor's degree in Software Engineering at the University of Brasília. My dedication to challenges is reflected in the application of robust software development processes, aiming to enhance the quality and performance of applications. My goal is to tackle the ever-evolving challenges of computing in a globalized world.</p>
 
